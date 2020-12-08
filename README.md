@@ -6,8 +6,9 @@ This is an exemple for showing how to use Git and GitHub together
 
 ## Introduction
 
+This is an example
 ## Deployment
-Sample website with plenty of files for demos
+This is a simple web project
 
 
 ## How to contribute
